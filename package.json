@@ -1,0 +1,22 @@
+{
+  "name": "crab-os",
+  "version": "1.0.0",
+  "description": "um sistema operacional de sites com codigo aberto com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git.crabos.nl"
+  },
+  "keywords": [
+    "crabos"
+  ],
+  "author": "TROLLGAMES",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
