@@ -50,9 +50,9 @@ ngrok http <porta-principal>
 
 ### Download
 
-* Todas Versões: [Abrir](https://dev.crabos.ml)
+* Todas Versões: [Abrir](https://os.crabs.ml)
 
-* Versão atual: [1.0.0](https://dev.crabos.ml/v/1.0.0/main.zip)
+* Versão atual: [1.0.0](https://os.crabs.ml/v/1.0.0/main.zip)
 
 ### Api:
 
